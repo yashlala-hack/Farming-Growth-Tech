@@ -1,11 +1,14 @@
-Powerbi Project
+POWER Bi
+	Project
 
 🌱 Predicting Plant Growth Stages with Environmental and Management Data Using Power BI
 
 📊 Project Overview
+
 This project demonstrates the use of Power BI to analyze and visualize the relationship between irrigation patterns, soil types, environmental factors, and plant growth. The primary goal is to provide actionable insights for smart farming practices by identifying key influencers of plant growth such as temperature, humidity, sunlight, and fertilizer type.
 
 📁 Dataset Overview
+
 The dataset contains the following fields:
 
 Soil: Type of soil (clay, sandy, loam)
@@ -17,13 +20,16 @@ Fertilizer Type: (organic, chemical, none)
 Total_Growth: Plant growth milestone/score
 
 📌 Key Insights
+
 🌡️ Temperature is a key influencer: A decrease in temperature below 60.59 leads to a decrease in plant growth by an average of 1.76 points.
 💧 Humidity has a positive correlation with plant growth — higher humidity values tend to result in better growth.
 🌱 Fertilizer type impacts growth: Organic fertilizers contribute the most to growth milestones (39.58%), followed by chemical (37.5%) and none (22.92%).
 🧱 Soil type comparison: Clay soil leads to the highest total growth, followed by sandy and loam.
 📈 Visuals Included
 
-Data Table: Shows raw data on soil, water frequency, humidity, sunlight, and temperature.
+Data Table: 
+
+Shows raw data on soil, water frequency, humidity, sunlight, and temperature.
 Avg Temperature by Temperature: Bar chart showing growth trend based on temperature ranges.
 Key Influencers: Identifies main factor influencing growth (temperature in this case).
 Growth Milestone by Fertilizer Type: Donut chart comparing the impact of fertilizer types.
